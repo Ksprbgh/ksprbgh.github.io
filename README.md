@@ -1,7 +1,7 @@
 # ksprbgh.github.io
 **Seriøst**
 
-Nu bliver det for alvor alvorligt
+Things are getting serious now
 
 Here is the [Help-file](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
