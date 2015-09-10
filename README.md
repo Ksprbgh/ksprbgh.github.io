@@ -1,4 +1,4 @@
 # ksprbgh.github.io
-Seriøst
+**Seriøst**
 
-nu bliver det alvor
+Nu bliver det for alvor alvorligt
